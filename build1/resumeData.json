@@ -1,0 +1,177 @@
+{
+  "main": {
+    "name": "< Hector Palacios />",
+    "occupation": "Computer Engineer",
+    "description": "Full Stack Developer looking for a frontend or backend position.",
+    "image": "Hector1.jpg",
+    "bio": "My name is Hector, I'm a Full Stack Web Developer, passionate about technology and driven by a desire to increase presence of large corporations, startups and people with a small corner of the Internet.",
+    "contactmessage": "Get in touch with me to receive further details or have a fun conversation.",
+    "email": "hapalacios@gmail.com",
+    "address": {
+      "street": "78 Donegall Drive",
+      "city": "Toronto",
+      "state": "ON",
+      "zip": "M4G 3G5"
+    },
+    "website": "https://www.hectorpalacios.ca",
+    "resumedownload": "https://www.hectorpalacios.ca",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/hectorpalacios/?locale=en_US",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/hapalacios",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/hapalacios85/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "TypeScript, Python, Javascript, React JS, Bootstrap, CSS/SASS,  Github, Jira, MySQL, SQL Server. Other skills: Visual Basic 6 and .Net,  SAP Crystal Reports, Excel, Access, TeamViewer, Hyper-V, VMWARE, Adobe Audition, Adobe Premiere, Photoshop and Illustrator.",
+    "education": [
+      {
+        "school": "BrainStation - Toronto, ON, Canada",
+        "degree": "Diploma in Web Development",
+        "graduated": "October 2020",
+        "description": "Best Cohort Project | Material: HTML, CSS/SASS, React JS, Express JS, MySQL, Git, Jira"
+      },{
+        "school": "Juno College - Toronto, ON, Canada",
+        "degree": "Course in Web Development",
+        "graduated": "April 2020",
+        "description": "Introductory course to Web Development. Material: HTML, CSS, SASS, VSCode, React JS"
+      },{
+        "school": "National University of Engineering - Managua, NIC",
+        "degree": "Postgraduate Degree in Project Development and Evaluation",
+        "graduated": "May 2016",
+        "description": "Graduated with Academic Excellence"
+      },
+      {
+        "school": "National University of Engineering - Managua, NIC",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "December 2007",
+        "description": "Graduated with Academic Excellence"
+      }
+    ],
+    "work": [
+      {
+        "company": "IT Solutions & Comm. (Remote), Toronto, ON",
+        "title": "IT Consultant",
+        "years": "January 2018 - December 2020",
+        "description": "Remote consultancy about ongoing IT projects related to computer maintenance, cctv surveillance systems and networks."
+      },
+      {
+        "company": "Toronto School of Management, Toronto, ON",
+        "title": "Student Advisor",
+        "years": "June 2019 - July 2020",
+        "description": "Interviewing potential students to explore their background, interests and identify their individual career goals; advise on appropriate programs to meet their goals."
+      },
+      {
+        "company": "IT Solutions & Communications, Managua, NIC",
+        "title": "IT Project Manager",
+        "years": "January 2014 - December 2018",
+        "description": "Demonstrated leadership for the creation, delivery and execution 50+ projects in the last 6 yrs. Determined the resources required to complete the project and made final decisions on administrative or operational matters."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "70%"
+      },
+      {
+        "name": "CSS/SASS",
+        "level": "75%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "55%"
+      },
+      {
+        "name": "SQL",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "SQL Server",
+        "level": "95%"
+      },
+      {
+        "name": "MySQL",
+        "level": "70%"
+      },
+      {
+        "name": "Express JS",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "World Covid Tracker",
+        "category": "Tools: TypeScript, React JS, Hooks, CSS/SASS, Netlify",
+        "image": "covidworldtracker.png",
+        "url": "https://react-ts-covid-world-tracker.netlify.app/"
+      },
+      {
+        "title": "AI Assistant",
+        "category": "Tools: React Js, CSS/SASS, Hooks, Bootstrap, Alan Studio API, MySQL, Netlify",
+        "image": "aiassistant.png",
+        "url": "https://ai-assistant-pro.netlify.app/"
+      },
+      {
+        "title": "This Portfolio",
+        "category": "Tools: TypeScript, React Js, CSS/SASS, Hooks, Netlify",
+        "image": "portfolio.png",
+        "url": "https://ai-assistant-pro.netlify.app/"
+      },
+      {
+        "title": "The Shoppies: Movie awards for entrepreneurs",
+        "category": "Tools: React Js, CSS/SASS, Netlify",
+        "image": "shoppies.png",
+        "url": "https://movie-app-awards-hapalacios2021.netlify.app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "'Divide and Conquer'",
+        "user": ""
+      },
+        {
+        "text": "Recursively splitting a problem into two or more sub-problems (divide), until these become simple enough to be solved directly (conquer).",
+        "user": "By Sun Tzu"
+      },
+      {
+        "text": "'First, solve the problem. Then, write the code.'",
+        "user": ""
+      },
+      {
+        "text": "'First, think and write the solution out on paper in steps. Then start writing the code. Don’t get complicated in the code and software design first because it will only serve to have to do things several times and waste time.",
+        "user": "By Waseem Latif"
+      }
+    ]
+  }
+}
