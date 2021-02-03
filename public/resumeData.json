@@ -2,13 +2,13 @@
   "main": {
     "name": "< Hector Palacios />",
     "occupation": "Computer Engineer",
-    "description": "Full Stack Developer looking for a frontend or backend position.",
+    "description": "Full Stack Developer looking to contribute in a front-end or back-end position",
     "image": "Hector1.jpg",
-    "bio": "My name is Hector, I'm a Full Stack Web Developer, passionate about technology and driven by a desire to increase presence of large corporations, startups and people with a small corner of the Internet.",
+    "bio": "My name is Hector, and I'm a Computer Engineer and Full Stack Developer. I'm passionate about technology and driven by a need to solve even the most demanding puzzles. I enjoy working with TypeScript, React JS, Express, Python, and SQL-databases, and I'm always excited to learn new technologies.",
     "contactmessage": "Get in touch with me to receive further details or have a fun conversation.",
     "email": "hapalacios@gmail.com",
     "address": {
-      "street": "78 Donegall Drive",
+      "street": "Leaside, East York",
       "city": "Toronto",
       "state": "ON",
       "zip": "M4G 3G5"
@@ -86,6 +86,14 @@
       },
       {
         "name": "TypeScript",
+        "level": "65%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Express JS",
         "level": "70%"
       },
       {
@@ -97,32 +105,20 @@
         "level": "55%"
       },
       {
-        "name": "SQL",
-        "level": "100%"
-      },
-      {
         "name": "Python",
         "level": "50%"
       },
       {
-        "name": "Git",
-        "level": "75%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "100%"
-      },
-      {
-        "name": "SQL Server",
-        "level": "95%"
+        "name": "SQL",
+        "level": "90%"
       },
       {
         "name": "MySQL",
         "level": "70%"
       },
       {
-        "name": "Express JS",
-        "level": "60%"
+        "name": "Git",
+        "level": "70%"
       }
     ]
   },

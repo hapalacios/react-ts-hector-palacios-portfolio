@@ -4,7 +4,7 @@ const Contact = ({ data }: any) => {
    const [url, setUrl] = useState('mailto:hapalacios@gmail.com?subject=subject&body=body');
    const [name, setName] = useState('');
    const [subject, setSubject] = useState('');
-   const [email, setEmail] = useState('');
+   const [email, setEmail] = useState('hapalacios@gmail.com');
    const [message, setMessage] = useState('');
 
    console.log(data)
@@ -13,7 +13,8 @@ const Contact = ({ data }: any) => {
        e.preventDefault();
       window.open(`mailto:${email}?subject=${subject}&body=${name}: ${message}`);
     }
-    
+    //      window.open(`mailto:${email}?subject=${subject}&body=${name}: ${message}`);
+
     return (
       <section id="contact">
 
