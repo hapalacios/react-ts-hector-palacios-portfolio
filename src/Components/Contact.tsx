@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 const Contact = ({ data }: any) => {
-   const [url, setUrl] = useState('mailto:hapalacios@gmail.com?subject=subject&body=body');
+   //const [url, setUrl] = useState('mailto:hapalacios@gmail.com?subject=subject&body=body');
    const [name, setName] = useState('');
    const [subject, setSubject] = useState('');
    const [email, setEmail] = useState('hapalacios@gmail.com');
