@@ -4,7 +4,7 @@
     "occupation": "Computer Engineer",
     "description": "Full Stack Developer looking to contribute in a front-end or back-end position",
     "image": "Hector1.jpg",
-    "bio": "My name is Hector, and I'm a Computer Engineer and Full Stack Developer. I'm passionate about technology and driven by a need to solve even the most demanding puzzles. I enjoy working with TypeScript, React JS, Express, Python, and SQL-databases, and I'm always excited to learn new technologies.",
+    "bio": "My name is Hector, and I'm a Computer Engineer and Full Stack Developer. I'm passionate about technology and driven by a need to solve even the most demanding puzzles. I enjoy working with the entire stack with TypeScript, React Js, Express/Node Js, CSS, Sass, Python, Netlify,  and databases, and I'm always excited to learn new technologies.",
     "contactmessage": "Get in touch with me to receive further details or have a fun conversation.",
     "email": "hapalacios@gmail.com",
     "address": {
@@ -34,18 +34,18 @@
     ]
   },
   "resume": {
-    "skillmessage": "TypeScript, Python, Javascript, React JS, Bootstrap, CSS/SASS,  Github, Jira, MySQL, SQL Server. Other skills: Visual Basic 6 and .Net,  SAP Crystal Reports, Excel, Access, TeamViewer, Hyper-V, VMWARE, Adobe Audition, Adobe Premiere, Photoshop and Illustrator.",
+    "skillmessage": "TypeScript, Javascript, React Js, Redux, HTML5, Wordpress, Python, PyCharm, .Net, V.B. 6.0, PHP, Java, Git,  Github, Jira, Crystal Reports. Styling, Audio & Video: CSS, Sass, Bootstrap, Material UI, Figma, Adobe Photoshop/Illustrator/Premiere/Audition, iMovies. Back-End: Express/Node Js, Ruby on Rails. Databases & Data Sources: MySQL, SQL Server, Transact-SQL, MongoDB, PostgreSQL, RESTful APIs, Swagger. Testing: Jest, Selenium. Deployment, Hosting & V-machines: AWS, Google Cloud Platform, Netlify, Heroku, Bluehost, VMWARE, Hyper-V.",
     "education": [
       {
         "school": "BrainStation - Toronto, ON, Canada",
         "degree": "Diploma in Web Development",
         "graduated": "October 2020",
-        "description": "Voted more popular project | Material: HTML, CSS/SASS, React JS, Express JS, MySQL, Git, Jira"
+        "description": "Voted more popular project | Material: HTML, CSS, Sass, React JS, Express JS, MySQL, Git, Jira"
       },{
         "school": "Juno College - Toronto, ON, Canada",
         "degree": "Course in Web Development",
         "graduated": "April 2020",
-        "description": "Introductory course to Web Development. Material: HTML, CSS, SASS, VSCode, React JS"
+        "description": "Introductory course to Web Development. Material: HTML, CSS, Sass, VSCode, React JS"
       },{
         "school": "National University of Engineering - Managua, NIC",
         "degree": "Postgraduate Degree in Project Development and Evaluation",
@@ -81,7 +81,7 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "React Js",
         "level": "90%"
       },
       {
@@ -97,7 +97,11 @@
         "level": "70%"
       },
       {
-        "name": "CSS/SASS",
+        "name": "Ruby on Rails",
+        "level": "20%"
+      },
+      {
+        "name": "CSS/Sass",
         "level": "75%"
       },
       {
@@ -105,20 +109,36 @@
         "level": "55%"
       },
       {
-        "name": "Python",
-        "level": "50%"
+        "name": "Material UI",
+        "level": "55%"
       },
       {
-        "name": "SQL",
-        "level": "90%"
+        "name": "Python",
+        "level": "40%"
+      },
+      {
+        "name": "Transact-SQL",
+        "level": "80%"
       },
       {
         "name": "MySQL",
-        "level": "70%"
+        "level": "65%"
+      },
+      {
+        "name": "Jest",
+        "level": "20%"
+      },
+      {
+        "name": "Selenium",
+        "level": "20%"
+      },
+      {
+        "name": "Netlify",
+        "level": "65%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "65%"
       }
     ]
   },
