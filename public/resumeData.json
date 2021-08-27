@@ -4,7 +4,7 @@
     "occupation": "Computer Engineer",
     "description": "Full Stack Developer looking to contribute in a full-stack, front-end or back-end position",
     "image": "Hector1.jpg",
-    "bio": "My name is Hector, and I'm a Computer Engineer and Full Stack Developer. I'm passionate about technology and driven by a need to solve even the most demanding puzzles. I enjoy working with the entire stack with React Js, Vue Js, TypeScript, Express/Node Js, CSS, Boostrap, Python, Netlify,  and databases, and I'm always excited to learn new technologies.",
+    "bio": "My name is Hector, and I'm a Computer Engineer and Full Stack Developer. I'm passionate about technology and driven by a need to solve even the most demanding puzzles. I enjoy working with the entire stack with React Js, TypeScript, Express/Node Js, CSS, Boostrap, Material UI, Netlify, AWS, and databases, and I'm always excited to learn new technologies.",
     "contactmessage": "Get in touch with me to receive further details or have a fun conversation.",
     "email": "hapalacios@gmail.com",
     "address": {
@@ -14,7 +14,7 @@
       "zip": "M4G 3G5"
     },
     "website": "https://www.hectorpalacios.ca",
-    "resumedownload": "https://drive.google.com/file/d/1KcXZZ92XQomMxVBdmf8AW3DsWRDZ1fmR/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/10ZHDuEBM2_232VQjItxrk5qnwSokgpsF/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -34,7 +34,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Javascript, React Js, Vue Js, TypeScript, HTML5, Wordpress, Python, PyCharm, .Net, V.B. 6.0, PHP, Java, Git,  Github, Jira, Crystal Reports. Styling, Audio & Video: CSS, Sass, Bootstrap, Material UI, Figma, Adobe Photoshop/Illustrator/Premiere/Audition, iMovies. Back-End: Express/Node Js, Ruby on Rails. Databases & Data Sources: MySQL, SQL Server, Transact-SQL, MongoDB, PostgreSQL, RESTful APIs, Swagger. Testing: Jest, Selenium. Deployment, Hosting & V-machines: AWS, Google Cloud Platform, Netlify, Heroku, Bluehost, VMWARE, Hyper-V.",
+    "skillmessage": "MERN Stack, TypeScript, HTML5, .Net, Java, Github, Jira, Crystal Reports. Styling, Audio & Video: CSS, Sass, Bootstrap, Material UI, Figma, Adobe Photoshop/Illustrator/Premiere. Back-End: Express/Node Js. Databases & Data Sources: SQL, RESTful APIs. Deployment, Hosting & V-machines: AWS, Netlify, Heroku, VMWARE, Hyper-V.",
     "education": [
       {
         "school": "BrainStation - Toronto, ON, Canada",
@@ -61,6 +61,18 @@
     ],
     "work": [
       {
+        "company": "Hatchways(Accelerator Program), Toronto, ON",
+        "title": "Software Developer",
+        "years": "July 2021 - August 2021",
+        "description": "Participated in a remote Agile team of four developers to build a Kanban Board and Calendar application with the MERN stack and TypeScript. Incorporated API services: Sendinblue email notification and Amazon S3 Bucket."
+      },
+      {
+        "company": "FirstBit Canada, Markham, ON",
+        "title": "Software Developer",
+        "years": "March 2021 - May 2021",
+        "description": "Used the Every8.Cloud framework that supports the standard package of Javascript, HTML, SQL, Bootstrap and CSS to develop front-end requirements. Contributed to the framework translation into Spanish."
+      },
+      {
         "company": "IT Solutions & Comm. (Remote), Toronto, ON",
         "title": "IT Consultant",
         "years": "January 2019 - December 2020",
@@ -82,31 +94,31 @@
     "skills": [
       {
         "name": "JavaScript",
-        "level": "90%"
+        "level": "85%"
       },
       {
         "name": "React Js",
-        "level": "90%"
+        "level": "85%"
       },
       {
         "name": "Vue Js",
-        "level": "70%"
+        "level": "60%"
       },
       {
         "name": "TypeScript",
-        "level": "50%"
+        "level": "60%"
       },
       {
-        "name": "Express JS",
+        "name": "Node/Express JS",
         "level": "70%"
       },
       {
         "name": "Ruby on Rails",
-        "level": "15%"
+        "level": "10%"
       },
       {
         "name": "CSS",
-        "level": "75%"
+        "level": "80%"
       },
       {
         "name": "Bootstrap",
@@ -114,11 +126,11 @@
       },
       {
         "name": "Material UI",
-        "level": "50%"
+        "level": "75%"
       },
       {
         "name": "Python",
-        "level": "30%"
+        "level": "25%"
       },
       {
         "name": "Transact-SQL",
@@ -126,19 +138,27 @@
       },
       {
         "name": "MySQL",
-        "level": "65%"
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "40%"
       },
       {
         "name": "Jest",
-        "level": "15%"
+        "level": "10%"
       },
       {
         "name": "Selenium",
-        "level": "15%"
+        "level": "10%"
       },
       {
         "name": "Netlify",
         "level": "65%"
+      },
+      {
+        "name": "AWS",
+        "level": "60%"
       },
       {
         "name": "Git",
@@ -149,6 +169,11 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Kanban board & calendar",
+        "category": "Tools: MERN Stack & Typescript (Mongo-Express-React-Node Js), Sendinblue API, AWS S3 Bucket",
+        "image": "KanbaboardCalendar.png",
+        "url": "https://github.com/hatchways/team-artistic-swimming/"
+      },{
         "title": "AI Assistant",
         "category": "Tools: React Js, CSS/SASS, Hooks, Bootstrap, Alan Studio API, MySQL, Netlify",
         "image": "aiassistant.png",
@@ -167,7 +192,7 @@
         "url": "https://github.com/hapalacios/-hapalacios-drone-projects-python0"
       },
       {
-        "title": "This Portfolio",
+        "title": "My Portfolio",
         "category": "Tools: TypeScript, React Js, CSS/SASS, Hooks, Netlify",
         "image": "portfolio.png",
         "url": "https://github.com/hapalacios/react-ts-hector-palacios-portfolio"
